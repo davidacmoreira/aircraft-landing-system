@@ -1,5 +1,5 @@
 # aircraft-landing-system
-Modelling an Aircraft Landing System
+Modelling an Aircraft Landing System in Alloy
 
 
 ## Authors
